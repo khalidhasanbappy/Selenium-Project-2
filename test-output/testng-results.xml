@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="3" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite 1" duration-ms="464" started-at="2020-09-09T23:01:19 ALMT" finished-at="2020-09-09T23:01:19 ALMT">
+    <groups>
+    </groups>
+    <test name="Test 1" duration-ms="221" started-at="2020-09-09T23:01:19 ALMT" finished-at="2020-09-09T23:01:19 ALMT">
+      <class name="com.TestNG.BasicTestNG">
+        <test-method status="PASS" signature="function1()[pri:0, instance:com.TestNG.BasicTestNG@7a1ebcd8]" name="function1" duration-ms="32" started-at="2020-09-09T23:01:19 ALMT" finished-at="2020-09-09T23:01:19 ALMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- function1 -->
+      </class> <!-- com.TestNG.BasicTestNG -->
+    </test> <!-- Test 1 -->
+    <test name="test 2" duration-ms="56" started-at="2020-09-09T23:01:19 ALMT" finished-at="2020-09-09T23:01:19 ALMT">
+      <class name="com.TestNG.BasicTestNG2">
+        <test-method status="PASS" signature="function3()[pri:0, instance:com.TestNG.BasicTestNG2@436e852b]" name="function3" duration-ms="24" started-at="2020-09-09T23:01:19 ALMT" finished-at="2020-09-09T23:01:19 ALMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- function3 -->
+      </class> <!-- com.TestNG.BasicTestNG2 -->
+    </test> <!-- test 2 -->
+  </suite> <!-- Suite 1 -->
+</testng-results>
